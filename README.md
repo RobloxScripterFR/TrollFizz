@@ -2,7 +2,7 @@
 A zip file containing 2 exes made in python
 
 Alright BEFORE you download these, be ready. Dont use these on a host machine, use on a vm.
-There are two TrollFizz files
+There are four TrollFizz files in total I have made SO FAR.
 
 -Trollfizz
 
